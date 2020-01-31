@@ -1,0 +1,7 @@
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\bin\Debug\C_Sharp_EX01.exe.config
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\bin\Debug\C_Sharp_EX01.exe
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\bin\Debug\C_Sharp_EX01.pdb
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\obj\Debug\C_Sharp_EX01.csprojResolveAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\obj\Debug\C_Sharp_EX01.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\obj\Debug\C_Sharp_EX01.exe
+C:\Users\roxan\OneDrive\Documents\MSSA  CLOUD APP\C# EXs\C_Sharp_EX01\C_Sharp_EX01\obj\Debug\C_Sharp_EX01.pdb

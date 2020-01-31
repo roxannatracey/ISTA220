@@ -1,0 +1,56 @@
+### Homework for chapter 2.
+#### Roxanna Barahona 
+
+1.	What is a local variable?
+- a. Variables that exist only in a method or another small section of code.
+
+2.	What is a statement?
+- a.	A statement is a command that performs and action such as calculation a value and storing the result or displaying a message to a user.
+- b.  You can identify a statement by the semicolon ;
+- c.  A statement is different than an expression. An expression is a piece of code that evaluates to a value.
+
+3.	What is an identifier?
+- a.	Identifiers are the names that you use to identify the elements in your programs, such as namespaces, classes, methods, and variables.
+- b.  Rules for identifiers in C#: you cannot use spacial characters. You can use alphabetical letters.
+
+4.	What is a variable?
+- a.	A variable is a storage location that holds a value. A variable is a box in a computer’s memory that holds temporary information.
+- b.  Professors definition: ** A variable is a name location in memory that contains a value with a type. **
+
+5.	What is a method?
+- a.	A method is a named sequence of statements. A method should be a meaningful identifier. It is a code of block that contains a series of statements.
+
+6.	Are primitive types and value types the same thing? This is not in the book.
+- EX: 2+2 = 4
+- a.	Primitive data types include the numeric types of C#, common types for holding strings, characters, and Boolean values. A primitive type is an inbuilt type, something that already exists. Primitive types
+are objects while value types are variables so they are not the same thing.
+
+7.	How are arithmetic operators and variable types related?
+- a.	A variable is a name given to a storage area that is used to store values of various data types. This is important because each variable needs to have a specific type which will determine the size and layout of the variables memory. Depending on variable type certain arithmetic operators can be used in conjunction
+
+8.	How do you turn an integer into a string?
+- a.	You would use a ToString method
+- b.	Int, long, and float are aliases for the strictures System.Int32
+
+9.	How do you turn a string into an integer?
+- a.	This requires that the string contain a valid set of digits and not arbitrary sequences of characters. You will need to write a piece of code that will call a method to caculate a value and writes the result to another box.
+
+10.	What is the difference between precedence and associativity? Give an example where this makes a difference
+- a.	Precedence is the priority and organizes operators vertically
+- b.	Associativity defines whether the operator evaluates from left to right or from right to left.
+
+11.	What is the definite assignment rule?
+- a.	You must assign a value to a variable before you can use it otherwise the program will not compile
+
+12.	How are the prefix and postfix increment and decrement operators evaluated differently?
+- a.	Prefix means that you are placing the operator symbol before the variable
+- b.	Postfix means that you are placing the operator symbol after the variable
+- c. increment is adding one and decrement is taking away one
+
+13.	What is string interpolation?
+- a.	String interpolation is a feature that renderes many uses of the + operator obsolete for concatenating strings
+- b.	It is more efficient than using the + operator
+- c. A method of including a variable in a string. For example the $ sign
+
+14.	What does the var keyword do?
+- a.	It causes the compiler to deduce the type of the variables from the types of the expressions used to initialize them
