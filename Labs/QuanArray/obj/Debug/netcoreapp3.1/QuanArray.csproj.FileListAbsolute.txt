@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\bin\Debug\netcoreapp3.1\QuanArray.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\obj\Debug\netcoreapp3.1\QuanArray.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\obj\Debug\netcoreapp3.1\QuanArray.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\obj\Debug\netcoreapp3.1\QuanArray.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\obj\Debug\netcoreapp3.1\QuanArray.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\QuanArray\obj\Debug\netcoreapp3.1\QuanArray.pdb

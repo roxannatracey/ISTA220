@@ -1,0 +1,54 @@
+using System;
+
+namespace Cards
+{
+    class Pack
+    {
+        public const int NumSuits = 4; // a symbolic constant is where you name a number 
+        public const int CardsPerSuit = 13; //  a symbolic constant is where you name a number
+        private PlayingCard[,] cardPack; // the first index in the suit, the second will hold the value
+        private Random randomCardSelector = new Random(); // random is something youll use a lot it picks a random integer. it istantiate randomcardselector as a new object
+
+        public Pack() // this is a constructor because it has the same name as the class and doesnt have a return type
+        {
+            cardPack = new PlayingCard[NumSuits, CardsPerSuit];  // cardpack is a new array object of a multidimensional array  cardpack is a reference type
+            for (Suit suit = Suit.Clubs; suit <= Suit.Spades; suit++) // suit.clubs is 0
+                for (Value value = Value.Two; value <= Value.Ace; value++)
+                    cardPack[(int)suit, (int)value] = new PlayingCard(suit, value); // cardpack is a multideimensional arary. anything in () is a cast so youre casting it to an integer
+        }  // the above 3 lines creates a pack of cards. this is a nested FOR LOOP and you are populating a multidimensional array
+        public PlayingCard DealCardFromPack()
+        {
+            Suit suit = (Suit)randomCardSelector.Next(NumSuits); // randomcardselector is an object. NEXt is the method. SUIT is the cast since its an enumeration. this picks a random suit
+            while (this.IsSuitEmpty(suit)) // what is the condition of the while loop? ISSuitEmpty is a method that takes one parameter (suit)  its a boolean
+                suit = (Suit)randomCardSelector.Next(NumSuits); //randomcardselector where if the while 23 picks a suit that has no values left it will go on to the next suit. therefore its returning false
+        }
+        Value value = (Value)randomCardSelector.Next(CardsPerSuit); // (value) is an enumeration and cast. lowercase value is the variable/name
+            while (this.IsCardAlreadyDealt(suit, value)) // this is a boolean statement and the predicate is the stuff in the parenthesis
+            {
+            value = (Value)randomCardSelector.Next(CardsPerSuit); // if its true, it picks another card
+        }
+        PlayingCard card = this.cardPack [(int)suit, (int)value]; // this creates a new element of cardpack and assigns it to card
+            this.cardPack [(int)suit, (int)value] = null; // null indicates you already dealt the card. when you deal a card you set that element to null. sets the playing card to null
+            return card; //deals the card.
+        }
+        private bool IsSuitEmpty(Suit suit) // declares a boolean method named ISSUITMETHOD. parameter is the suit (SUIT is an enumeration, suit is an integer)
+        {
+
+
+            bool result = true; // if it is set to true then we have to figure out of theres cards left
+            for (Value value = Value.Two; value <= Value.Ace; value++) // for every value that = 0, value <= 12 , add 1
+                if (!IsCardAlreadyDealt(suit, value)) // ! negates it
+                {
+                    result = false;
+                    break; // goes back to the for loop
+                }
+
+            return result;
+        }
+
+        private bool IsCardAlreadyDealt(Suit suit, Value value) // returns true or false. SUIT and VALUE are enumeration which is where we give a name to a number
+        {
+            return (this.cardPack[(int)suit, (int)value] == null); // if its null it returns true. if theres a value there it will return false. this entire expression returns true or false
+        }
+    }
+}

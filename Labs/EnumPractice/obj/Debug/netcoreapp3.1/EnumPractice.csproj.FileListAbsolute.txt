@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\bin\Debug\netcoreapp3.1\EnumPractice.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\EnumPractice\obj\Debug\netcoreapp3.1\EnumPractice.pdb

@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\bin\Debug\netcoreapp3.1\Quiz_05_Roxanna.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\obj\Debug\netcoreapp3.1\Quiz_05_Roxanna.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\obj\Debug\netcoreapp3.1\Quiz_05_Roxanna.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\obj\Debug\netcoreapp3.1\Quiz_05_Roxanna.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\obj\Debug\netcoreapp3.1\Quiz_05_Roxanna.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Quiz_05_Roxanna\obj\Debug\netcoreapp3.1\Quiz_05_Roxanna.pdb

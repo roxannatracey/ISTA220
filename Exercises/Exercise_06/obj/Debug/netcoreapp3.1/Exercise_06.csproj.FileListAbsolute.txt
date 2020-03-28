@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\bin\Debug\netcoreapp3.1\Exercise_06.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\obj\Debug\netcoreapp3.1\Exercise_06.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\obj\Debug\netcoreapp3.1\Exercise_06.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\obj\Debug\netcoreapp3.1\Exercise_06.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\obj\Debug\netcoreapp3.1\Exercise_06.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Exercises_C\Exercise_06\obj\Debug\netcoreapp3.1\Exercise_06.pdb

@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\bin\Debug\netcoreapp3.1\Parameter_Arrays.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\obj\Debug\netcoreapp3.1\Parameter_Arrays.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\obj\Debug\netcoreapp3.1\Parameter_Arrays.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\obj\Debug\netcoreapp3.1\Parameter_Arrays.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\obj\Debug\netcoreapp3.1\Parameter_Arrays.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA220C\Labs_C\Parameter_Arrays\obj\Debug\netcoreapp3.1\Parameter_Arrays.pdb
